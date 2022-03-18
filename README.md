@@ -1,3 +1,18 @@
+Desenvolvido com:
+- Laravel Sail, 
+- Laravel Breeze, 
+- Laratrust 
+- Docker
+- Mysql
+- Bootstrap
+- Scss
+* Não concluído o CRUD e outras ações -> conclusão posterior.
+* Informações para Testar:
+Usuario: testeum@gmail.com. testedois@gmail.com, testetres@gmail.com e testequatro@gmail.com
+Senha: teste1234
+===============================
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
